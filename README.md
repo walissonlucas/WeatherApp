@@ -12,7 +12,7 @@ WeatherApp is a weather forecasting application designed to provide accurate and
 
 #### 🚧  Angular Select 🚀 Finished  🚧
 
-## Demonstration
+### Demonstration
 
 Link
 https://weather-app-jet-zeta-74.vercel.app/weather
@@ -50,7 +50,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
-## Learnings
+### Learnings
 
 - Angular Components
 - Scalable design architecture
@@ -63,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - @input
 - Smart Dumb components
 
-### Autor
+### Author
 ---
 
  <img style="border-radius: 50%;" src="https://github.com/walissonlucas.png" width="100px;" alt=""/>
