@@ -1,27 +1,76 @@
-# WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+![Logo](https://github.com/walissonlucas/WeatherApp/blob/main/src/assets/WeatherApp.png)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Project WeatherApp
 
-## Code scaffolding
+WeatherApp is a weather forecasting application designed to provide accurate and up-to-date information about weather conditions anywhere in the world.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+(WeatherApp é um aplicativo de previsão do tempo projetado para fornecer informações precisas e atualizadas sobre as condições meteorológicas em qualquer lugar do mundo.)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+#### 🚧  Angular Select 🚀 Finished  🚧
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Demonstration
 
-## Running end-to-end tests
+Link
+https://weather-app-jet-zeta-74.vercel.app/weather
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Pré-requisitos(required)
 
-## Further help
+Before starting, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Also it's nice to have an editor to work with the code like [VSCode.](https://code.visualstudio.com/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 🎲 Run Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/walissonlucas/WeatherApp>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd WeatherApp
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ ng s --o
+
+```
+
+### 🛠 Technologies
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+## Learnings
+
+- Angular Components
+- Scalable design architecture
+- Services (API)
+- Stylize components
+- Routes
+- Interfaces
+- NgForms
+- Click events
+- @input
+- Smart Dumb components
+
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://github.com/walissonlucas.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>Walisson Lucas 🚀</b></sub></a> 
+
+Made with ❤️ by Walisson Lucas 👋🏽 Contact!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Walisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/walisson-lucas-sabino-dos-santos-a47b32141/) 
+[![Gmail Badge](https://img.shields.io/badge/-walissonlucas1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:walissonlucas1997@gmail.com)
