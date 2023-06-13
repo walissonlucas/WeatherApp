@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Author
 ---
 
- <img style="border-radius: 50%;" src="https://www.linkedin.com/in/walisson-lucas-sabino-dos-santos.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/walissonlucas.png" width="100px;" alt=""/>
  <br />
  <sub><b>Walisson Lucas 🚀</b></sub></a> 
 
