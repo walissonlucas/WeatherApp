@@ -26,19 +26,19 @@ Also it's nice to have an editor to work with the code like [VSCode.](https://co
 ### 🎲 Run Back End (servidor)
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/walissonlucas/WeatherApp>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access project folder in terminal/cmd/powershell
 $ cd WeatherApp
 
-# Vá para a pasta server
+# Go to server folder
 $ cd server
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ ng s --o
 
 ```
