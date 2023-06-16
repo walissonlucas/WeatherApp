@@ -23,6 +23,10 @@ Before starting, you will need to have the following tools installed on your mac
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Also it's nice to have an editor to work with the code like [VSCode.](https://code.visualstudio.com/)
 
+Angular v15.2.0
+Node v18.14.0
+Npm v9.3.1
+
 ### 🎲 Run Back End (servidor)
 
 ```bash
